@@ -24,7 +24,5 @@ for i in range (0, 6):
   print "Adding %d to the list." %i
   # Append id a function that lists understand.
   elements.append(i)
-
-# Now we print them out too
-for i in elements:
+  # Now we print them out too
   print "Element was: %d" % i
